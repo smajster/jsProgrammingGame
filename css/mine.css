@@ -1,0 +1,14 @@
+#code-container{
+    background: #116529;
+    height: 100px;
+    width: 300px;
+    border-width: 10px;
+	border-color: black;
+	border-style: solid;
+}
+.command{
+	border-width: 2px;
+	border-color: black;
+    background: #a44d26;
+    	border-style: solid;
+}
